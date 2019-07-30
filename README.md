@@ -23,7 +23,7 @@ Visit the [releases](https://github.com/nurupo/vlc-pause-click-plugin-nlightly-b
 Note that only a certain number of builds is kept, older builds get removed.
 
 ## Why a separate repository?
-Mainly for security reasons -- seting up automated builds like this requires making some security compromises and I didn't want to risk [`vlc-pause-click-plugin`](https://github.com/nurupo/vlc-pause-click-plugin) becoming compromised.
+Mainly for security reasons -- setting up automated builds like this requires making some security compromises and I didn't want to risk [`vlc-pause-click-plugin`](https://github.com/nurupo/vlc-pause-click-plugin) becoming compromised.
 
 ## License
 LGPLv2.1+
