@@ -17,9 +17,9 @@ Well, enough with disclaimers.
 I do hope that the plugin works for you and you find it useful.
 
 ## Download
-See the [latest build](https://github.com/nurupo/vlc-pause-click-plugin-nlightly-builds/releases/tag/ci-nightly-latest).
+See the [latest build](https://github.com/nurupo/vlc-pause-click-plugin-nightly-builds/releases/tag/ci-nightly-latest).
 
-Visit the [releases](https://github.com/nurupo/vlc-pause-click-plugin-nlightly-builds/releases) page to see all the builds.
+Visit the [releases](https://github.com/nurupo/vlc-pause-click-plugin-nightly-builds/releases) page to see all the builds.
 Note that only a certain number of builds is kept, older builds get removed.
 
 ## Why a separate repository?
