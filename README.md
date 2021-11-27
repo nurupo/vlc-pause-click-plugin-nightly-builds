@@ -2,7 +2,7 @@
 Builds of [`vlc-pause-click-plugin`](https://github.com/nurupo/vlc-pause-click-plugin) targeting the nightly, in-development version of VLC.
 
 ## Important note!
-Note that the nightly VLC is a moving target, VLC developers constantly change its code and break ABI compatibility, so the plugin might stop working or even building due to a change in VLC's code.
+Note that the nightly VLC is a moving target, VLC developers constantly change its code and break API compatibility, so the plugin might stop working or even building due to a change in VLC's code.
 Meaning that a plugin targeting a nightly VLC built today might not work with the nightly VLC built tomorrow.
 To work around this issue, it's recommended that you use the plugin only with the specific version of VLC that it was built for.
 A download link for the specific nightly VLC version that the plugin was built for is provided in the release information and in each of the zip files.
