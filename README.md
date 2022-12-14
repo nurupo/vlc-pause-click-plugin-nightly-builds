@@ -22,6 +22,10 @@ See the [latest build](https://github.com/nurupo/vlc-pause-click-plugin-nightly-
 Visit the [releases](https://github.com/nurupo/vlc-pause-click-plugin-nightly-builds/releases) page to see all the builds.
 Note that only a certain number of builds is kept, older builds get removed.
 
+## Install
+
+Extract the archive at `/Applications/VLC.app/Contents/Frameworks/plugins/`
+
 ## Why a separate repository?
 Mainly for security reasons -- setting up automated builds like this requires making some security compromises and I didn't want to risk [`vlc-pause-click-plugin`](https://github.com/nurupo/vlc-pause-click-plugin) becoming compromised.
 
